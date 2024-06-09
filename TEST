@@ -1,6 +1,5 @@
 #EXTINF:1 group-title="TEST" tvg-logo="https://raw.githubusercontent.com/romiandika93/test/main/SAVE_20230822_092915.jpg",BOLA
-http://103.120.172.74:4600
-
+https://web.telegram.org/k/stream/%7B%22dcId%22%3A2%2C%22location%22%3A%7B%22_%22%3A%22inputDocumentFileLocation%22%2C%22id%22%3A%225231175711607234417%22%2C%22access_hash%22%3A%22-2381331634124910087%22%2C%22file_reference%22%3A%5B2%2C105%2C8%2C136%2C153%2C0%2C0%2C2%2C89%2C102%2C101%2C167%2C13%2C255%2C45%2C233%2C42%2C169%2C189%2C202%2C172%2C250%2C94%2C109%2C7%2C165%2C224%2C181%2C53%5D%7D%2C%22size%22%3A296519703%2C%22mimeType%22%3A%22video%2Fmp4%22%2C%22fileName%22%3A%22%5BMovieku.cc%5D.Wdsdy.22.E1.480p.x264.NF.WebDL.mp4%22%7D
 #EXTINF:1 group-title="TEST" tvg-logo="https://raw.githubusercontent.com/romiandika93/test/main/SAVE_20230822_092915.jpg",BOLA
 http://103.120.172.74:4200
 
