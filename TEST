@@ -1,2 +1,3 @@
 #EXTINF:1 group-title="TEST" tvg-logo="https://raw.githubusercontent.com/romiandika93/test/main/SAVE_20230822_092915.jpg",BOLA
-https://raw.githubusercontent.com/Arrasyid22/vision-/main/mnctv00.m3u8
+https://daalnf9d2r8j1.cloudfront.net/out/v1/e4c475c32bcd409a988dc93e3ed88fea/index.mpd?aws.manifestfilter=audio_language:eng;video_codec:h264;video_height:0-1080
+--keys 1ef783946d724451bca37caaeffa5dfe:3f34f6e8fe06b5dd7f48774ef4748b72
