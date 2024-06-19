@@ -2,10 +2,7 @@
 https://raw.githubusercontent.com/romiandika93/test/main/TV3.m3u8
 
 #EXTINF:-1 group-title="EURO 2024" tvg-id="https://i.ibb.co.com/nQ9q54q/euro2024.png",EURO
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-https://melon-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
+https://raw.githubusercontent.com/romiandika93/test/main/LwbRTexY0Fs_0mbgv61Uf-U2_YzwLKsgSAVguyd5WBGXRHxAyhCZPHBFI8XhtTbxbz7Lw8IHf6YytzVOEhJAmqIjn6l69tcftk147RZARof40pop-dhugXPB_SFf5tz1CC8ivtth8Y0zDCBJiigdrjwvfp_3F22IEfwJqRJUqmnHvmpmwOgMILNbKPYWJ-NLRy3O1xlp-zz_V_PyLOqRzQ.m3u8
 
 #EXTINF:-1 group-title="EURO 2024" tvg-id="https://i.ibb.co.com/nQ9q54q/euro2024.png",EURO
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
