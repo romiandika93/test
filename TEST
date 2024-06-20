@@ -11,6 +11,4 @@ http://iptvtree.net:8080/e9cd5f24/079fd2c9/165054
 https://cempedak-live-cdn.mncnow.id/live/eds/VplusLiveRplus/sa_dash/VplusLiveRplus.mpd
 
 #EXTINF:-1 group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/romiandika93/Playlist/main/photo_6266912392663385339_x.jpg", TRT WORLD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-#EXTVLCOPT:http-referrer=http://dens.tv
-https://op-group1-swiftservehd-1.dens.tv/h/h156/S4/mnf.m3u8
+https://raw.githubusercontent.com/romiandika93/test/main/ASTRO%20SENSASI.m3u8
