@@ -1,5 +1,5 @@
 #EXTINF:1 group-title="TEST" tvg-logo="https://raw.githubusercontent.com/romiandika93/test/main/SAVE_20230822_092915.jpg",BOLA
-https://raw.githubusercontent.com/tivigratis/tv/main/GTV.m3u8
+http://37.27.111.214:8080/live/6/hls.m3u8
 
 #EXTINF:1 group-title="TEST" tvg-logo="https://raw.githubusercontent.com/romiandika93/test/main/SAVE_20230822_092915.jpg",BOLA
 https://z02.ubtvfans.com/live/rx1/2805/102008c80263e9f1c2bb3a507521fcf0/index.m3u8
