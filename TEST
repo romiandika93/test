@@ -1,9 +1,6 @@
 #EXTINF:1 group-title="TEST" tvg-logo="https://raw.githubusercontent.com/romiandika93/test/main/SAVE_20230822_092915.jpg",BOLA
 http://37.27.111.214:8080/live/6/hls.m3u8
 
-#EXTINF:1 group-title="TEST" tvg-logo="https://raw.githubusercontent.com/romiandika93/test/main/SAVE_20230822_092915.jpg",BOLA
-https://haoyunlai.serv00.net/Smartv-1.php?id=Channel5HD
-
 #EXTINF:-1 group-title="EURO 2024" tvg-id="https://i.ibb.co.com/nQ9q54q/euro2024.png",EURO
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
