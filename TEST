@@ -2,7 +2,7 @@
 http://37.27.111.214:8080/live/6/hls.m3u8
 
 #EXTINF:-1 group-title="EURO 2024" tvg-id="https://i.ibb.co.com/nQ9q54q/euro2024.png",FTV
-#https://stream1.freetv.fun/8aec97cbfdd8e5f28a3efb1b0f8ce83823e5e7d3e4a7302c2047b78a23972522.ctv
+
 
 #EXTINF:-1 group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/romiandika93/Playlist/main/photo_6266912392663385339_x.jpg", TRT WORLD
-https://stream1.freetv.fun/f2dc8297ddc2e73d96f11162faab46ee821f68a63b2ef5f7ba2bb6bed1773f63.ctv
+
