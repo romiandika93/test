@@ -1,5 +1,6 @@
 #EXTINF:1 group-title="TEST" tvg-logo="https://raw.githubusercontent.com/romiandika93/test/main/SAVE_20230822_092915.jpg",BOLA
 http://37.27.111.214:8080/live/6/hls.m3u8
-
+#EXTINF:1 group-title="TEST"
+https://4gtvfreemobile-cds.cdn.hinet.net/live/pool/4gtv-4gtv002/4gtv-live-mid/4gtv-4gtv002-avc1_400000=5-mp4a_129000_zho=10-begin=3071870740666666-dur=40000000-seq=76796769.ts?token1=8HT17olCutPfNRGh58U0zA&expires1=1727300528
 #EXTINF:1 group-title="TEST" tvg-logo="https://raw.githubusercontent.com/romiandika93/test/main/SAVE_20230822_092915.jpg",BOLA 
 https://4gtvfreemobile-mozai.4gtv.tv/CzamqICt5dWUp2hZfL8FBpaaHQ_z9gyBz-fTzFP_gaI%3d/4gtv-4gtv002-avc1_400000=5-mp4a_129000_zho=10.m3u8?token=gMCZ6jzJ3zQrH1oH1PLwpQ&expires=1727271728&refer=N2NlMzM5YTAtZWU1MC00ODQzLWEwZGYtNTk5MTk0Njc0YTQw&token1=8HT17olCutPfNRGh58U0zA&expires1=1727300528&y=0&vt=&bip=&bnts=
