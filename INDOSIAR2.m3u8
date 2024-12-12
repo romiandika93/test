@@ -1,9 +1,4 @@
 #EXTM3U
-#EXT-X-TARGETDURATION:2
-#EXT-X-MEDIA-SEQUENCE:1
-#EXTVLCOPT:network-caching=10000
-#EXTVLCOPT:http-reconnect=true
-#EXTINF:1,
-http://ktpremium.xyz:2095/Syed88/syed88/73617
-http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/162138
-http://xtv.ooo:8080/83212539/43153928/350972
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2048000,RESOLUTION=1280x720
+https://lebo.huminbird.cn/live/ballbar_10220.m3u8
