@@ -1,9 +1,20 @@
-#EXTINF:-1 tvg-id="民視" tvg-name="民視" tvg-logo="https://assets.livednow.com/logo/民視.png" group-title="台湾频道「🅑」", 民視
-https://fourgtv.mytvsuper.com.mp/litv/4gtv-4gtv002
+#EXTM3U
+#EXTM3U x-tvg-url="https://assets.livednow.com/epg.xml,https://epg.v1.mk/fy.xml"
 
-#EXTINF:1 group-title="TEST" tvg-logo="https://raw.githubusercontent.com/romiandika93/test/main/SAVE_20230822_092915.jpg",BOLA
-http://37.27.111.214:8080/live/6/hls.m3u8
-#EXTINF:1 group-title="TEST"
-https://4gtvfreemobile-cds.cdn.hinet.net/live/pool/4gtv-4gtv002/4gtv-live-mid/4gtv-4gtv002-avc1_400000=5-mp4a_129000_zho=10-begin=3071870740666666-dur=40000000-seq=76796769.ts?token1=8HT17olCutPfNRGh58U0zA&expires1=1727300528
-#EXTINF:1 group-title="TEST" tvg-logo="https://raw.githubusercontent.com/romiandika93/test/main/SAVE_20230822_092915.jpg",BOLA 
-https://4gtvfreemobile-mozai.4gtv.tv/CzamqICt5dWUp2hZfL8FBpaaHQ_z9gyBz-fTzFP_gaI%3d/4gtv-4gtv002-avc1_400000=5-mp4a_129000_zho=10.m3u8?token=gMCZ6jzJ3zQrH1oH1PLwpQ&expires=1727271728&refer=N2NlMzM5YTAtZWU1MC00ODQzLWEwZGYtNTk5MTk0Njc0YTQw&token1=8HT17olCutPfNRGh58U0zA&expires1=1727300528&y=0&vt=&bip=&bnts=
+#EXTINF:-1 tvg-id="民視" tvg-name="民視" tvg-logo="https://assets.livednow.com/logo/民視.png" group-title="台湾频道「🅐」", 民視
+https://pixman.mytvsuper.com.mp/litv/4gtv-4gtv002
+
+#EXTINF:-1 tvg-id="民視第一台" tvg-name="民視第一台" tvg-logo="https://assets.livednow.com/logo/民視第一台.png" group-title="台湾频道「🅐」", 民視第一台
+https://pixman.mytvsuper.com.mp/litv/4gtv-4gtv003
+
+#EXTINF:-1 tvg-id="民視新聞台" tvg-name="民視新聞台" tvg-logo="https://assets.livednow.com/logo/民視新聞台.png" group-title="台湾频道「🅐」", 民視新聞台
+https://pixman.mytvsuper.com.mp/litv/litv-ftv13
+
+#EXTINF:-1 tvg-id="民視台灣台" tvg-name="民視台灣台" tvg-logo="https://assets.livednow.com/logo/民視台灣台.png" group-title="台湾频道「🅐」", 民視台灣台
+https://pixman.mytvsuper.com.mp/litv/4gtv-4gtv001
+
+#EXTINF:-1 tvg-id="民視影劇台" tvg-name="民視影劇台" tvg-logo="https://assets.livednow.com/logo/民視影劇台.png" group-title="台湾频道「🅐」", 民視影劇台
+https://pixman.mytvsuper.com.mp/litv/litv-ftv09
+
+#EXTINF:-1 tvg-id="民視旅遊台" tvg-name="民視旅遊台" tvg-logo="https://assets.livednow.com/logo/民視旅遊台.png" group-title="台湾频道「🅐」", 民視旅遊台
+https://pixman.mytvsuper.com.mp/litv/litv-ftv07
