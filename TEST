@@ -1,3 +1,6 @@
+#EXTINF:-1 tvg-id="民視" tvg-name="民視" tvg-logo="https://assets.livednow.com/logo/民視.png" group-title="台湾频道「🅑」", 民視
+https://fourgtv.mytvsuper.com.mp/litv/4gtv-4gtv002
+
 #EXTINF:1 group-title="TEST" tvg-logo="https://raw.githubusercontent.com/romiandika93/test/main/SAVE_20230822_092915.jpg",BOLA
 http://37.27.111.214:8080/live/6/hls.m3u8
 #EXTINF:1 group-title="TEST"
