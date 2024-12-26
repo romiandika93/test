@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2048000,RESOLUTION=1280x720
-http://ts1.supports.top:2082/play/live.php?mac=00:1A:79:7E:2C:A9&stream=14740&extension=m3u8
+https://cdn-live.vtv.vn/6VfxneaR-i5eziIIK7RmKg/1735224594/live/vtv6/vtv6-720p.m3u8
