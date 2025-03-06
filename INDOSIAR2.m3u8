@@ -1,4 +1,7 @@
 #EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2048000,RESOLUTION=1280x720
-https://bf.shandongjnkt.com/live/5004240_hd01.m3u8?txSecret=ccbd883a00d552782f51e4f56f3501ee&txTime=67c9a3b0
+#EXT-X-TARGETDURATION:2
+#EXT-X-MEDIA-SEQUENCE:1
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:http-reconnect=true
+#EXTINF:1,
+https://nonton.site:8443/XtreamFlixID/w9RLHbWJY4/1845
