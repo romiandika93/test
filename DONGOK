@@ -1,5 +1,7 @@
 #EXTM3U
-#EXT-X-VERSION:4
-#EXT-X-INDEPENDENT-SEGMENTS
-#EXT-X-STREAM-INF:BANDWIDTH=7373146,AVERAGE-BANDWIDTH=6191434,RESOLUTION=1920x1080,FRAME-RATE=25.000,CODECS="avc1.64002A,mp4a.40.2",AUDIO="audio_0"
-https://tfns0gr3uomttgr31hctwgazdrmmcpf5gkcjqqb3g6cudctzga4mscwzgg55p.100ycdn.com/live1.pro2cdnlive.com/live/channel2/playlist.m3u8?wsSecret=f884494968c20ed5704cdd2191325cda&wsABSTime=1753654659&wsSession=09b03b77bd0c5ca624cc6397-175361145988723&wsIPSercert=994dc5c8a8f4d71d033ecb8f584dad44&wsiphost=local&wsBindIP=1
+#EXT-X-TARGETDURATION:2
+#EXT-X-MEDIA-SEQUENCE:1
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:http-reconnect=true
+#EXTINF:1,
+http://013tv.com:8080/friptv/AwWjvV6QuXDY84xR5meJhk/298550
