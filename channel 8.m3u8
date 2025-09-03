@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2048000,RESOLUTION=1280x720
-http://47.91.17.126:20002/Smartv.php?id=Channel8HD
+https://cdn6.946985.qzz.io/live/ch8/stream.m3u8
