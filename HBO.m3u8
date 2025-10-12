@@ -1,4 +1,7 @@
-#EXTM3U 
-#EXT-X-VERSION:3 
-#EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1800000,NAME=1080p,RESOLUTION=1920x1080 
-http://adorable-davita-2d133c54.koyeb.app/smt.php?id=hbohd_twn
+#EXTM3U
+#EXT-X-TARGETDURATION:2
+#EXT-X-MEDIA-SEQUENCE:1
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:http-reconnect=true
+#EXTINF:1,
+http://ktpremium.online:2095/live/Halim8781/Halim8781/73858.ts
