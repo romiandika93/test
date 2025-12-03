@@ -1,4 +1,4 @@
 #EXTM3U 
 #EXT-X-VERSION:3 
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2048000,RESOLUTION=1280x720 
-https://simate.go-iptv.ggff.net/smart.php?id=Rcti&token=Goiptv
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2048000,RESOLUTION=1280x720
+https://smt.go-iptv.ggff.net/smart.php?id=Rcti&token=Goiptv
