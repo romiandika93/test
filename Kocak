@@ -2,4 +2,4 @@
 #EXTINF:-1 tvg-id="TV3" tvg-logo="https://malaysia-tv.net/wp-content/uploads/2025/03/TV3-Live-Streaming-1.webp", TV3 Live
 #EXTVLCOPT:http-referer=https://malaysia-tv.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
-https://ganteng.romi-andikaputrasos.workers.dev/
+https://ganteng.romi-andikaputrasos.workers.dev/?ch=tv3-live
