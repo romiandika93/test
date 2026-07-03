@@ -1,5 +1,2 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="TV3" tvg-logo="https://malaysia-tv.net/wp-content/uploads/2025/03/TV3-Live-Streaming-1.webp", TV3 Live
-#EXTVLCOPT:http-referer=https://malaysia-tv.net/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
-https://ganteng.romi-andikaputrasos.workers.dev/?ch=tv3-live
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqjRjYQzeZXe4kOyrHIaWlcGMLzdHQcFjg6w&usqp=CAU" group-title="Lokal" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36", TRANS 7 web
+https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
